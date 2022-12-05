@@ -1,0 +1,8 @@
+Fernando;Mars;Londre;12-6-1988;M;C;Secundaria;231
+as;asd;dsd;dfx;zxcz;cxxc;as;223
+asd;sda;dsads;dsd;sdsd;sdsd;dssds;12
+asd;sdsd;sds;dsd;dsd;sds;sd;2
+assd;sd;sds;dsd;sdsd;sdsd;sds;12
+ana;sd;sd;sdsd;ds;dsds;sd;1
+berto;ad;asd;ds;asd;dd;as;2
+Marco;Polo Rosales;Surco;12-02-1998;M;S;Secundaria;12345678
